@@ -1,0 +1,3 @@
+muellim
+isteyir ki 3 setr nese yazim ve men yazib
+git add notes.txt edirem  git commit -m "txt" git push -u origin feature-2
