@@ -1,0 +1,4 @@
+fetch ve full arasındakı ferq ondan ibaretdir ki 
+fetch - yalnız remote dəyişiklikləri gətirir, local faylları dəyişdirmir
+ancaq
+pull -  fetch + merge edir yeni local faylları remote ilə yeniləyir
